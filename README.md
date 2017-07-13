@@ -4,5 +4,5 @@ This seems like a good site.
 SeemsGood Kappa.
 PogChamp
 
-Kappa Pride
-AdmiralBackpack
+Updates made on GitHub website remptely.
+Before Rebase.
