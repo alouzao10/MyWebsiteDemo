@@ -11,4 +11,4 @@ Made edit in new default branch.
 
 Making tage changes
 
-Resolving issues
+Resolving issues locally
