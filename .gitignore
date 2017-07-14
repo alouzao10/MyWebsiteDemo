@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+#Files to remove
+.DS_Store
