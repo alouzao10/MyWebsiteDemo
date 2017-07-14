@@ -6,3 +6,5 @@ PogChamp
 
 Updates made on GitHub website remptely.
 Before Rebase.
+
+Made edit in new default branch.
